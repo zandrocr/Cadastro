@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadatro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <h1>Cadastro</h1>
+        <fieldset id="dados">
+            <legend></legend>
+            <img src="" alt="" id="img">
+
+            <div id="Dn">
+            <p class="iden n">Nome completo:</p>
+            <input type="text" id="nome" placeholder="Nome" class="padrao">
+            </div>
+
+            <div id="De">
+                <p class="iden e">Endereço de e-mail:</p>
+                <input type="email" name="email" id="email" placeholder="email@seu.com" class="padrao">
+            </div>
+
+            <div id="Di">
+                <p class="iden d">Data de nascimento:</p>
+                <input type="date" name="idade" id="idade" class="padrao">
+            </div>
+
+            <div id="Dc">
+                <p class="iden c">Cargo atual</p>
+                <input type="text" placeholder="Cargo" class="padrao" id="cargo">
+            </div>
+
+            <div id="sexo">
+                <input type="radio" name="sex" id="feminino" >
+                <label for="feminino">Feminino</label>
+                <input type="radio" name="sex" id="masculino">
+                <label for="masculino">Masculino</label>
+            </div>
+
+            <input type="button" value="Enviar" id="enviar" onclick="enviar()">
+        </fieldset>
+    </section>
+
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
