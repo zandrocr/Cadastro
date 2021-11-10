@@ -29,8 +29,8 @@ Pratico de cadstrar e de facil preenchimento
 
 Compatibilidade com aparelhos moveis, como smartphones e tablets
 
-<div style="display: flex; justify-content: center;" >
-    <img src="amostra/h.png" style="width: 50vh; height: 60vh">
+<div align= "center" >
+    <img src="amostra/h.png" style="width: 50vh; height: 60vh;">
     <img src="amostra/f.png" style="margin-left: 20px; width: 50vh; height: 60vh">
 </div>
 
