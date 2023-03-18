@@ -7,7 +7,7 @@
 
 <br>
 
->Formúlario para cadasatro simples, com comclução em um identificador.
+>Formulário para cadastro simples, com conclusão em um identificador.
 
 ## **_Tecnologias_**
 <div align="center">
