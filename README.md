@@ -18,7 +18,7 @@
 
 #
 
-Pratico de cadstrar e de facil preenchimento
+Prático de cadastrar e de fácil preenchimento
 <div align="center">
     <img src="amostra/gif.gif" style="width: 90vh;">
 </div>
